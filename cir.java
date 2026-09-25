@@ -68,5 +68,6 @@ public class cir{
             q.enqueue(va);
         }
         q.display();
+        System.out.println("Queue implementation updated");
     }
 }
